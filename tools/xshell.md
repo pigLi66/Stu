@@ -1,0 +1,1 @@
+Ctrl + Shift + t 关闭窗口栏
